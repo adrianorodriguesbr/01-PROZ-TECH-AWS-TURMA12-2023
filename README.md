@@ -1,4 +1,5 @@
-#PROZ Tecnologia, AWS e META!#Seja bem vindo ao meu Git! Aqui você vai acompanhar minha jornada para me tornar um programador web.
+# PROZ Tecnologia, AWS e META!
+# Seja bem vindo ao meu Git! Aqui você vai acompanhar minha jornada para me tornar um programador web.
  
 
 Atividades realizadas durante o curso oferecido pela PROZ Tecnologia e a AWS.
