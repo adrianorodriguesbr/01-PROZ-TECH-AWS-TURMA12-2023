@@ -1,4 +1,4 @@
-# Curso: PROZ Tecnologia, AWS e META!
+# PROZ Tecnologia, AWS e META!
 # Seja bem vindo ao meu Git! Aqui você vai acompanhar minha jornada para me tornar um programador web.
  
 
