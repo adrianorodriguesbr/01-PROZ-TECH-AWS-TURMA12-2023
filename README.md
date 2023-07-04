@@ -1,4 +1,6 @@
+# Seja bem vindo ao meu Git! Aqui você vai acompanhar minha jornada para me tornar um programador web.
 # proztechaws
+
 Atividades realizadas durante o curso oferecido pela PROZ Tecnologia e a AWS.
 
 Capacitação Gratuita em Introdução à Prog﻿ramação
@@ -18,3 +20,5 @@ Os pré-requisitos para participar do programa serão:
 18 anos ou mais
 
 Site do programa: https://pages.prozeducacao.com.br/proz-tecnologia#rd-column-l7182sgm
+
+Plataforma de Estudos: https://portaltech.joyclass.com/login?redirectUrl=%2Fapp%2Flist
