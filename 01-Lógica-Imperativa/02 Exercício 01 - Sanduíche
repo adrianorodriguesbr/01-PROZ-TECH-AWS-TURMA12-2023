@@ -1,0 +1,22 @@
+Exercício 01: Pensando nos pilares Decomposição e Pensamento Algoritmo: escrevam o passo a 
+passo para montar um sanduíche (escolham um sabor).
+
+Sanduíche: Misto Quente
+	
+Pegue duas fatias de pão;
+Pegue uma fatia de presunto;
+Pegue uma fatia de queijo;
+Pegue uma porção de manteiga;
+Passe a manteiga em um dos lados de cada fatia de pão;
+Coloque uma fatia de presunto em um dos lados que esteja com manteiga da fatia de pão;
+Coloque uma fatia de queijo em cima da fatia de presunto;
+Coloque outra fatia de pão por cima da fatia de queijo;
+Pegue uma sanduicheira;
+Abra a sanduicheira;
+Coloque o sanduíche na sanduicheira;
+Feche a sanduicheira;
+Ligue a sanduicheira;
+Espere a luz verde acender;
+Abra a sanduicheira;
+Coma o sanduíche
+Desligue sanduicheira;
