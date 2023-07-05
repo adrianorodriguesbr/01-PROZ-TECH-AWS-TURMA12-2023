@@ -3,3 +3,8 @@ Chegaram mais onze alunos nessa turma e o professor organizou a turma da seguint
 No entanto, o professor se ausentou da sala por cinco minutos e, ao voltar, percebeu que um aluno que gosta de uma das disciplinas havia trocado de lugar com alguém que prefere a outra.
 Sabendo que o professor tem dificuldade de memorizar, informe como ele descobriu a cadeira em que houve a troca de alunos e qual a disciplina de cada um.  
 Realize essa atividade no WORD ou no Bloco de Notas, suba esse arquivo para algum repositório (como o Google Drive, o Dropbox ou o OneDrive) e compartilhe o link do arquivo no campo ao lado para que outros desenvolvedores possam analisá-lo.
+
+Solução:
+Usando o pensamento computaciona para resolver esse problemas podemos ter várias soluções possíveis, dentre elas podemos citar duas bem interessante:
+O professor pode usar o método de reconhecimento de padrão. Fazendo a comparação da formação antiga da sala com a nova configuração.
+Ele também pode fazer uma decomposição da turma em pequenos grupos e ir aplicando novamente o reconhecimento de padrões para identificar quais alunos mudaram de lugar.
