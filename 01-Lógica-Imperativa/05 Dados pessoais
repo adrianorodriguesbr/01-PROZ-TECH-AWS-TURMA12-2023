@@ -1,0 +1,27 @@
+Elabore um algoritmo para que o usuário, através da entrada de dados, informe os seus dados pessoais. Alguns desses dados
+fornecidos pelo usuário precisam ser apresentados na tela quando o algoritmo for executado, são eles:
+ 
+- Nome;
+- Endereço;
+- Cidade;
+- CPF;
+- RG.
+
+Solução:
+
+var 
+  nome, endereco, cidade: caractere;
+  rg, cpf: real;
+Inicio
+  escreva("Qual seu nome:");
+  leia(nome);
+  escreva("Qual seu endereço:");
+  leia(endereco);
+  escreva("Qual sua cidade:");
+  leia(cidade);
+  escreva("Qual seu CPF: ");
+  leia(cpf);
+  escreva("Qual seu RG:");
+  leia(rg);
+  escreva("Seu nome é ",nome,", você mora na rua ",rua," na cidade de ",cidade,". Você tem como CPF o número ",cpf," e como RG o número ",RG,".");
+Fimalgoritmo
