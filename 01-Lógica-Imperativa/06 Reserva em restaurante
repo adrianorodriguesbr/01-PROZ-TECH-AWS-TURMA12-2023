@@ -1,0 +1,19 @@
+Var
+   numPessoa : real
+   sitPessoa : caractere
+Inicio
+   escreval("Responda sim ou nao. Tem alguma pessoa fumante ou com Pet:")
+   leia(sitPessoa)
+   escreval("Digite um número de pessoa da reserve: ")
+   leia(numPessoa)
+
+   se (sitPessoa = "sim") entao
+      escreval("Sua reserva será na Área Externa")
+   senao
+      se (numPessoa >= 5) entao
+         escreval("Sua reserva será no 1º Andar")
+      senao
+         escreval("Sua reserva será no Terreo")
+      fimse
+   fimse
+Fimalgoritmo
