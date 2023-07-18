@@ -1,0 +1,26 @@
+Faça uma função calculadora de dois números com três parâmetros: os dois primeiros serão os números da operação e o terceiro será a entrada que definirá a operação a ser executada. Considera a seguinte definição:
+1. Soma
+2. Subtração
+3. Multiplicação
+4. Divisão
+
+Caso seja inserido um número de operação que não exista, o resultado deverá ser 0.
+
+Solução:
+def resposta(num1,num2,operacao):
+    if (operacao == 1): 
+        resposta = num1+num2
+        return resposta
+    elif (operacao ==2):
+        resposta = num1-num2
+        return resposta
+    elif (operacao==3):
+        resposta = num1*num2
+        return resposta
+    elif (operacao==4):
+        resposta = num1/num2
+        return resposta
+    else : return "Número 0"
+        
+resultado = resposta (3,2,4)
+print(resultado)
