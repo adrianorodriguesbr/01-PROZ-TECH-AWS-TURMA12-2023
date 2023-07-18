@@ -6,3 +6,24 @@ Escreva mais dois códigos que resolvam o mesmo problema, mas dessa vez usando o
 Como desafio, imprima eles em ordem decrescente (20, 19, 18...)
 
 *************************** SOLUÇÃO *****************************
+#Usando laço for temos a seguinte resolução
+for i in range(20):
+        if i % 13 != 0:
+            print("Você está no andar de nº ",i)
+
+#Usando laço while temos a seguinte resolução
+i = 0
+while i <= 20:
+    if i % 13 != 0:
+        print("Você está no andar de nº ",i) 
+    i = i+1
+
+
+#Usando comandos break e continue
+for i in range(1,21,1):
+	if i == 13:
+		continue
+	if i < 21:
+		print("Você está no andar de nº ",i) 
+	if i == 21:
+		break
