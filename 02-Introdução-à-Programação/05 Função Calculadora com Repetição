@@ -12,3 +12,23 @@ Após a seleção, o sistema deve pedir para o usuário inserir o primeiro e seg
 Solução
 ********************************************
 
+Solução:
+def resposta(num1,num2,operacao):
+try:
+    if (operacao == 1): 
+        resposta = num1+num2
+        return resposta
+    elif (operacao ==2):
+        resposta = num1-num2
+        return resposta
+    elif (operacao==3):
+        resposta = num1*num2
+        return resposta
+    elif (operacao==4):
+        resposta = num1/num2
+        return resposta
+    else : return "Número 0"
+    except:    
+resultado = resposta (3,2,4)
+print(resultado)
+
