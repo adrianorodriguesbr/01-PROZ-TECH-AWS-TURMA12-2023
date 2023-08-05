@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sua Viagem</title>
+</head>
+<body>
+    <header>
+        <span>EuroTour</span>
+        <nav>
+            <ul>
+                <li>Passagens</li>
+                <li>Hospedagem</li>
+                <li>Pontos Turísticos</li>
+        </nav>
+    </header>
+    <h1>Conheça três pontos Turísticos da Europa</h1>
+    <p>A Europa conta com diversos destinos incríveis. A seguir listamos algumas das atrações e pontos turísticos de cidades populares do continente.</p>
+    <div>
+        <section>
+            <h2>Torre Eiffel</h2>
+            <img src="/Nova pasta/Torre.jpg" alt="Torre Eiffel">
+            <p>A Torre Eiffel é o cartão postal de Paris. Possui 324 metros de altura e teve sua construção finalizada 1.889.</p>
+        </section>
+        <section>
+            <h2>Champs-Elysées</h2>
+            <img src="/Nova pasta/Arco.jpg" alt="Champs-Elysées">
+            <p>A Champs-Elysées é a avenida mais monumental de Paris. É dividida em duas partes com o Rond-Point des Champs-Elysées como seu cruzamento.</p>
+        </section>
+        <section>
+            <h2>Museu do Louvre</h2>
+            <img src="/Nova pasta/Museu.jpg" alt="Museu do Louvre">
+            <p>O Museu do Louvre foi construído em 1.793, e desde então passou por várias reformas que o modernizaram, as últimas foram feitas nos anos de 1.996 e 2.000.</p>
+        </section>
+    </div>
+    <footer>
+    <div>EuroTour(c)</div>
+        <ul>
+            <li>Facebook</li>
+            <li>Instagram</li>
+            <li>Linkedin</li>
+        </ul>
+    </footer>
+        
+        
+</body>
+</html>
